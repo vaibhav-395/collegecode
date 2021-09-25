@@ -2,6 +2,9 @@ import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
 
+/**
+ * ActionListener demo
+ */
 public class demo4 extends Applet implements ActionListener,Runnable
 {
 	TextField t1,t2;
